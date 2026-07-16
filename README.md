@@ -1,3 +1,56 @@
+## National River Toxin Analysis
+#### Project Description
+
+This project analyzes the National River Toxin Dataset to explore patterns and trends in toxin levels found in river water. The analysis uses Python-based data science and statistical tools to clean, explore, visualize, and analyze the dataset.
+
+#### Tech Stack
+Python
+pandas
+NumPy
+Matplotlib
+Seaborn
+SciPy
+Scikit-learn
+Statsmodels
+
+#### Project Structure
+
+├── data/
+│   └── National_River_Toxin_Dataset_1.csv
+├── river_toxin_analysis.py
+├── requirements.txt
+└── README.md
+
+##### Setup
+Clone this repository.
+Navigate to the project directory.
+Install the required Python dependencies:
+pip install -r requirements.txt
+
+##### Running the Analysis
+
+Run the Python script from the project root directory:
+
+python river_toxin_analysis.py
+
+The script loads the dataset from:
+
+data/National_River_Toxin_Dataset_1.csv
+
+and performs the project's data analysis and visualizations.
+
+##### Data
+
+The raw dataset is stored in the data/ directory and is loaded by the analysis script using a relative file path.
+
+
+
+
+
+
+#### The below to be deleted if not required#
+--
+
 ## Environmental-Toxin-Analysis-in-River-Systems
 #### An analysis of the different levels of toxins present in river systems throughout the world
 

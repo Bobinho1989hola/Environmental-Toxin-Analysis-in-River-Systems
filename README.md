@@ -13,7 +13,7 @@ from statsmodels.tsa.seasonal import seasonal_decompose
 
 #Load the dataset
 
-df = pd.read_csv("C:/Users/David Holliday/OneDrive/Documents/Rob Python Project/Project 2 Environmental Toxin Analysis in River Systems/National_River_Toxin_Dataset_1.csv")
+df = pd.read_csv("C:/df = pd.read_csv("data/National_River_Toxin_Dataset_1.csv")
 
 #Initial data exploration
 

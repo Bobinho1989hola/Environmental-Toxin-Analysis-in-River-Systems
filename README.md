@@ -141,3 +141,9 @@ model = LinearRegression()
 model.fit(x, y)
 print(f"Linear Regression Coefficient: {model.coef_}")
 print(f"Linear Regression Intercept: {model.intercept_}")
+
+#### Graphs and charts
+
+![ENVIRONMENTAL-TOXIN-ANALYSIS-IN-RIVER-SYSTEMS](Images/Heatmap.png)
+![ENVIRONMENTAL-TOXIN-ANALYSIS-IN-RIVER-SYSTEMS](Images/LinegraphLeadLevels.png)
+![ENVIRONMENTAL-TOXIN-ANALYSIS-IN-RIVER-SYSTEMS](Images/River-System-Barchart.png)

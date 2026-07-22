@@ -146,4 +146,4 @@ print(f"Linear Regression Intercept: {model.intercept_}")
 
 ![ENVIRONMENTAL-TOXIN-ANALYSIS-IN-RIVER-SYSTEMS](Images/Heatmap.PNG)
 ![ENVIRONMENTAL-TOXIN-ANALYSIS-IN-RIVER-SYSTEMS](Images/LinegraphLeadLevels.PNG)
-![ENVIRONMENTAL-TOXIN-ANALYSIS-IN-RIVER-SYSTEMS](Images/River-System-Barchart.PNG)
+![ENVIRONMENTAL-TOXIN-ANALYSIS-IN-RIVER-SYSTEMS](Images/River%System%Barchart.PNG)
